@@ -1,10 +1,10 @@
 @font-face {
     font-family: stolzl;
-    src: url(./fonts/stolzl_regular.otf);
+    src: url(../fonts/stolzl_regular.otf);
 }
 @font-face{
     font-family: gotham;
-    src: url(./fonts/gothampro_bold.ttf);
+    src: url(../fonts/gothampro_bold.ttf);
 }
 body{
     background-color: #210E09;
